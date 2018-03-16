@@ -13,6 +13,7 @@ Starting notes:
 * Identify subject matter experts. Cultivate relationships with SMEs, who will help write and review your docs.
 * Finding the key stakeholders. Which internal stakeholders can be your ally? See "Identify subject matter experts".
 
+This is Debra.
 
 Hack-a-thon content:
 --------------------
